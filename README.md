@@ -1,4 +1,4 @@
-# Starter Web Pro+juct
+# Starter Web Project
 
 ##Introduction
 
