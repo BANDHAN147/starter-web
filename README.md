@@ -1,4 +1,6 @@
-# Starter Web Pro+juct
+# Starter Web Project
+
+This is a simple project.
 
 ##Introduction
 
