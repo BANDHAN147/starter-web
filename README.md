@@ -2,7 +2,7 @@
 
 This is a simple project.
 Adding a line for rebasing example.
-More changes from myfeature branch too
+Updating for emergency fix after stashing
 
 
 ##Introduction
