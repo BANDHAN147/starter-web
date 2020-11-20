@@ -18,3 +18,6 @@ Pleaqse fork this repository and issure pull requests for review
 ##Deployment
 This is a simple web project.
 
+###Copyright
+All rights reserved
+
